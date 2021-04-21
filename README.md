@@ -1,6 +1,6 @@
 # jpa03-thaophan1
 
-Repo: https://ucsb-cs156-s21/STARTER-thaphan1
+Repo: https://ucsb-cs156-s21/jpa03-thaophan1
 
 On Heroku: https://jpa03-thao-phan.herokuapp.com
 
